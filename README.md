@@ -1,4 +1,4 @@
 helloworld
 ==========
 
-My first repository in git
+My first repository on git
